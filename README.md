@@ -14,18 +14,31 @@ H μακέτα μας θα είναι κατασκευασμένη ώστε τα
 Για την κατασκευή της μακέτας θα χρησιμοποιηθούν ανακυκλωμένα υλικά και επιπλέον
 
 -τρία Φωτοβολταϊκά πάνελ: https://grobotronics.com/solar-panel-1w-125x63mm.html
+
 -δίοδος: https://grobotronics.com/diode-rectifier-1a-1000v-1n4007.html
+
 -τρανσιστορ: https://grobotronics.com/transistor-npn-75v-800ma-2n2222a.html
+
 -αντιστάσεις
+
 -πλακέτα φόρτισης https://grobotronics.com/lithium-battery-charger-and-protection-module-tp4056.html
+
 -δύο μπαταριοθήκες μονές για μπαταρία λιθίου https://grobotronics.com/battery-holder-1x18650-with-wires.html
+
 -δύο επαναφορτιζόμενες μπαταρίες Λιθίου: https://grobotronics.com/ncr18650b-3350mah-panasonic.html
+
 -led
+
 -DC motor:  https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/motors/dc/jga25-370-12v-dc-motor/
+
 -Λεντοταινία https://grobotronics.com/led-strip-2835-12w-m-ip20-white-cold-8mm-width.html
+
 -Arduino uno,
+
 - κιτ για αυτοκινητάκι με μοτεράκια dc για τις ρόδες,https://grobotronics.com/robot-smart-car-4wd-chassis-26cm.html
+
 -γέφυρα μοτέρ: https://grobotronics.com/dual-motor-driver-module-l298n.html
+
 -καλώδια
 
 
