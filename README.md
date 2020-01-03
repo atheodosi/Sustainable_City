@@ -37,7 +37,7 @@ H μακέτα μας θα είναι κατασκευασμένη ώστε τα
 
 -Arduino uno,
 
-- κιτ για αυτοκινητάκι με μοτεράκια dc για τις ρόδες,https://grobotronics.com/robot-smart-car-4wd-chassis-26cm.html
+-κιτ για αυτοκινητάκι με μοτεράκια dc για τις ρόδες,https://grobotronics.com/robot-smart-car-4wd-chassis-26cm.html
 
 -γέφυρα μοτέρ: https://grobotronics.com/dual-motor-driver-module-l298n.html
 
